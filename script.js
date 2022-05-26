@@ -23,7 +23,7 @@ $(document).ready(function () {
   ];
   let pesan = "";
   let total = 1;
-  let produk2 = ["Jet Tempur", "Nuklir Hiroshima", "Infinity Stone", "Burj Khalifa", "Rudal Hipersonik"];
+  let produk2 = ["Sepatu", "Senadal", "baju", "makeup", "dress"];
 
   $("#produk" + total).on("change", function () {
     $("#button-tambah").show();
