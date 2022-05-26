@@ -4,5 +4,3 @@
 ## Nama : Okta Roma Uli Sihombing
 ## NIM  : 119140083
 
-## Tampilan Pesan
-
